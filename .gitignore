@@ -185,3 +185,6 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
+
+# Notebooks que não devem ir para o GitHub até o curso ser oferecido
+gabaritos.ipynb
