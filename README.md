@@ -1,7 +1,3 @@
-Aqui está um exemplo de README para o seu repositório no GitHub:
-
----
-
 # Minicurso de Introdução ao Python para Biomecânica
 
 Este repositório contém o material do minicurso "Introdução ao Python para Biomecânica", ministrado por Bruno
