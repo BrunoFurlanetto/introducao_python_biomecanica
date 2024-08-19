@@ -44,5 +44,5 @@ Para aproveitar ao máximo o minicurso, siga as etapas de preparação abaixo:
       Python diretamente no navegador, com suporte a bibliotecas como Pandas já instalado, **assim não sendo necessário
       a instalação do Python na máquina**.
 
-**obs: Para quem tiver interesse em fazer o uso do Python na máquina local [clique aqui]() e siga as instruções para a
+**obs: Para quem tiver interesse em fazer o uso do Python na máquina local [clique aqui](https://github.com/BrunoFurlanetto/introducao_python_biomecanica/blob/main/docs/Instalação%20local.md) e siga as instruções para a
 intalação da linguagem e do interpretador.**
