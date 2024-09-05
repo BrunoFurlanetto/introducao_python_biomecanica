@@ -40,5 +40,11 @@ Para aproveitar ao máximo o minicurso, siga as etapas de preparação abaixo:
       Python diretamente no navegador, com suporte a bibliotecas como Pandas já instalado, **assim não sendo necessário
       a instalação do Python na máquina**.
 
+2. **Repositório**:
+    - Para baixar o repositório, clique no botão "Code" no canto superior direito da página e selecione "Download ZIP".
+      Isso permitirá que você tenha todos os arquivos no seu computador. Para simplificar o acesso, extraia os arquivos
+      para uma pasta no seu Google Drive. Dessa forma, você poderá acessar todos os módulos de maneira rápida e prática
+      ao abrir o Google Colab.
+
 **obs: Para quem tiver interesse em fazer o uso do Python na máquina local [clique aqui](https://github.com/BrunoFurlanetto/introducao_python_biomecanica/blob/main/docs/Instalação%20local.md) e siga as instruções para a
 intalação da linguagem e do interpretador.**
